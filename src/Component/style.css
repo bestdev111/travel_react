@@ -1,0 +1,252 @@
+.img {
+  margin-left: 15%;
+  margin-bottom: auto;
+}
+.container {
+  height: 80px;
+  background-color: #2680eb;
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  margin-left: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: white;
+}
+
+.col1 {
+  height: 50px;
+  margin-left: 250px;
+  margin-bottom: auto;
+  border-radius: 5px;
+  width: 470px;
+}
+
+.ant-input:focus {
+  border-color: white;
+  outline: 0 !important;
+  -webkit-box-shadow: 0 0 0 0px white;
+  box-shadow: 0 0 0 0px white;
+}
+
+.ant-input {
+  border: none;
+  height: 48px;
+  width: 440px;
+  border-radius: 5px;
+}
+
+.col2 {
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.col3 {
+  margin-left: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.footerRow {
+  margin-left: 50px;
+}
+
+.footerRow2 {
+  height: 500px;
+  background-color: #2680eb;
+  margin-top: 60px;
+  padding-top: 60px;
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.footerImage {
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.word {
+  color: white;
+  font-size: 18px;
+  line-height: 35px;
+}
+
+.footerCol {
+  margin-left: 50px;
+}
+
+.heading {
+  font-family: Calibri;
+  font-size: 21px;
+  color: white;
+  font-weight: bold;
+}
+
+.contentRow1 {
+  background-image: url("./Image/chinamtfuji.png");
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ant-layout-footer {
+  background: white !important ;
+}
+
+.ant-layout {
+  background: white !important ;
+}
+
+.ant-collapse-header {
+  font-weight: bold;
+  color: #2680eb !important;
+}
+
+td {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.tablePadding tr td {
+  padding: 10px;
+}
+
+.ant-card-body {
+  padding: 0 !important;
+}
+
+.contentRow1txt {
+  font-size: 55px;
+  font-weight: bold;
+  font-family: Calibri;
+  color: white;
+  text-align: center;
+}
+
+.contentRow1txt1 {
+  font-size: 25px;
+  font-family: Calibri;
+  color: white;
+  text-align: center;
+}
+
+.contentRow1txt2 {
+  background-image: url("./Image/graybackground.png");
+  width: 750px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contentRow1txt2textbox {
+  width: 95%;
+}
+
+.searchBtn {
+  margin-left: auto;
+  margin-right: auto;
+  outline: none;
+  width: 25%;
+  background-color: #ffc406;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: calibri;
+  font-weight: bold;
+  height: 58px;
+}
+
+.contentRow2 {
+  margin: 20px 13%;
+}
+
+.contentRow3 {
+  color: #2680eb;
+  font-size: 43px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.contentRow4 {
+  color: #707070;
+  font-size: 22px;
+  text-align: center;
+}
+
+.contentSelection {
+  display: flex;
+  flex-direction: row;
+  margin-left: 25%;
+}
+.selection {
+  margin-left: 36px;
+  font-size: 24px;
+  color: #707070;
+}
+
+.selection:hover {
+  color: #2680eb;
+  border-bottom: 1px solid #ffc406;
+}
+
+.exploreBtn {
+  width: 276px;
+  height: 51px;
+  border: 2px solid #2680eb;
+  background-color: white;
+  color: #2680eb;
+  font-family: Calibri;
+  font-size: 22px;
+}
+
+.packageRow1 {
+  background-image: url("./Image/bluesky.png");
+}
+
+.packageRow2 {
+  margin: auto;
+}
+.Space1 {
+  margin-left: 30%;
+  display: flex;
+  flex-direction: row;
+  font-family: Calibri;
+  font-size: 22px;
+}
+
+.SpaceHeader {
+  text-align: center;
+  font-size: 22px;
+}
+
+.register {
+  width: 300px;
+}
+
+.Space3 {
+  width: 1000px;
+  margin-left: 20%;
+  display: flex;
+  flex-direction: row;
+
+  font-family: Calibri;
+  font-size: 22px;
+  border-top-left-radius: 5px;
+}
+
+.LeftSpace {
+  width: fit-content;
+}
+
+.RightSpace {
+  margin-left: 20px;
+}
